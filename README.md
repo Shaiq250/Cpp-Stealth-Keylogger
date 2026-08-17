@@ -1,4 +1,4 @@
-# C++ Stealth Keylogger (NCY-1 Project)
+# C++ Stealth Keylogger
 
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
